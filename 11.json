@@ -1,0 +1,41 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "chess",
+      "blocks": [
+        {
+          "img": {
+            "src": "https://dasvetik85.github.io/ozon_cdn/IMG_20230321_211641.jpg",
+            "srcMobile": "https://cdn1.ozone.ru/s3/rich-content/placeholder/640x640.png",
+            "alt": "",
+            "width": 598,
+            "height": 317,
+            "widthMobile": 640,
+            "heightMobile": 640,
+            "isParandja": false
+          },
+          "imgLink": "",
+          "title": {
+            "content": [
+              "Большой карман с двумя \"входами\"!"
+            ],
+            "size": "size4",
+            "align": "left",
+            "color": "color1"
+          },
+          "text": {
+            "size": "size2",
+            "align": "left",
+            "color": "color1",
+            "content": [
+              "Вместительный и очень удобный элемент изделия расположен - спереди! Карман очень уютный и теплый - выполнен с начесом. Руки ребенка всегда в тепле!"
+            ]
+          },
+          "reverse": false
+        }
+      ]
+    }
+  ],
+  "version": 0.3
+}
